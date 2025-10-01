@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Education  
+## 📚 Education
 - **B.Tech. in Bioengineering** – VIT Bhopal University  
   - CGPA: **8.02/10.0** | Expected: **July 2026**  
 - **Class XII (CBSE)** – Kanha Makhan Millennium School  
@@ -14,7 +14,7 @@
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 
 - 📧 [aayushsharma9043@gmail.com](mailto:aayushsharma9043@gmail.com)  
 - 📞 [+91-9930632647](tel:+919930632647)  
